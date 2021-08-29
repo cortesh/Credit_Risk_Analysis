@@ -18,7 +18,7 @@ imbalanced-learn and scikit-learn libraries will be used to build and evaluate m
 
 ![matrix](https://github.com/cortesh/Credit_Risk_Analysis/blob/main/images/matrix_results.jpg)
 
-
+* 
 ## Summary
 
 
